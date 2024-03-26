@@ -11,6 +11,6 @@ Traffic Sign Classifier has an accuracy of around 95%. The images with very low 
 ## Loss vs Epochs <br />
 ![Loss_vs_Epochs](loss_epochs.png)<br />
 ## Example Output 1 <br />
-![Example_Output_1](output_1.png)<br />
+![Example_Output_1](output_1.PNG)<br />
 ## Example Output 2 <br />
-![Example_Output_2](output_2.png)<br />
+![Example_Output_2](output_2.PNG)<br />
